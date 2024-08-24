@@ -1,0 +1,11 @@
+[package]
+name = "hnsw"
+version = "0.1.0"
+authors = ['kirillemilio kirillemilio@gmail.com']
+edition = "2021"
+
+[lib]
+name = "zoo"
+path = "src/lib.rs"
+
+[dependencies]
